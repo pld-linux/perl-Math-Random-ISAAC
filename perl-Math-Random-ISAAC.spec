@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	Random-ISAAC
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Random::ISAAC - Perl interface to the ISAAC PRNG algorithm
 #Summary(pl.UTF-8):	
 Name:		perl-Math-Random-ISAAC
